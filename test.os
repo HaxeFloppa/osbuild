@@ -1,6 +1,7 @@
 BOOTLOADER_PRINT
 {
-    DISPLAY boutta hear the most sterotypical shit in the world frr though :sob:
-    STR Hello, world!
+    STR Hello
+    STR World!
     STINT 0
+    STINT 1
 }

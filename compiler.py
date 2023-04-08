@@ -47,4 +47,7 @@ while True:
                 str_print_count += 1
             print_var = int(str_print_str)
             print(strings[print_var])
+            print_var = 0
+            str_print_count = 0
+            str_print_str = ""
         program_counter += 1
