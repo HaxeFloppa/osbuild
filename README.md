@@ -4,6 +4,7 @@ OSBuild: a linker styled programming language created by HaxeFloppa.
 <h2><i><b>I/O stream</b></i></h2>
 To print a string, use the following lines to do so:
 
+
     BOOTLOADER_START
     {
         HELLO, WORLD!
