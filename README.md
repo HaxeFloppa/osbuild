@@ -1,7 +1,5 @@
-<center>
-<h1>osbuild</h1>
+<h1 align="center">osbuild</h1>
 OSBuild: a linker styled programming language created by HaxeFloppa.
-</center>
 <h2><i><b>I/O stream</b></i></h2>
 To print a string, use the following lines to do so:
 
