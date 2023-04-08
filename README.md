@@ -10,7 +10,7 @@ To print a string, use the following lines to do so:
 
     BOOTLOADER_PRINT
     {
-        HELLO, WORLD!
+        DISPLAY HELLO, WORLD!
     }
 
 
